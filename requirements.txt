@@ -1,0 +1,6 @@
+opencv-python
+pyrealsense2
+degirum PySDK
+numpy
+adafruit-motorkit
+sort
