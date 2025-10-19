@@ -18,7 +18,7 @@ Contributions:
 - Object Detection & Tracking: Anh Duong Tran
 
 ## Overview
-![Finalset](images/finalResult.png)
+<img src="images/finalResult.png" alt="Finalset" width="80%">
 
 This project implements a real-time stereoscopic autofocus system, which provides an interactive GUI to perform person detection, tracking, depth-based distance estimation, and stepper-motor driven lens focusing in real time. It uses:
 - Intel RealSense D455 for RGB + depth frames
@@ -28,10 +28,11 @@ This project implements a real-time stereoscopic autofocus system, which provide
 - An Adafruit Motor HAT to drive a stepper on the lens focus ring
 - Raspberry Pi 5
 - The whole system powered by a Vmount baterry
-![Hardware](images/controlHardware.png)
+<img src="images/controlHardware.png" alt="Hardware" width="40%">
 
 
 ## Key Features
+<img src="images/pipeline.png" alt="Pipeline" width="80%">
 - Launch flow: Loading screen → Calibration screen → Main screen
 - Calibration checklist with lighting condition selection
 - Live video view with adjustable ROI (drag corners)
@@ -56,7 +57,7 @@ Tracking-by-detection with YOLO und SORT:
   <a href="https://www.youtube.com/shorts/ReqabGZ8ctM">
     <img src="images/trackingSortYT.png" alt="Object Tracking" width="30%">
   </a>
-  <a href="https://www.youtube.com/shorts/-5ozBTq2l24?feature=share">
+  <a href="https://www.youtube.com/shorts/xMcakpQYOgM">
     <img src="images/oFYT.png" alt="Optical Flow" width="30%">
   </a>
   <a href="https://www.youtube.com/shorts/RXhNjNWLM1I?feature=share">
