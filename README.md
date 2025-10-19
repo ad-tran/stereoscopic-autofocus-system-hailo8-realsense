@@ -52,15 +52,17 @@ This project implements a real-time stereoscopic autofocus system, which provide
 
 Tracking-by-detection with YOLO und SORT:
 
-[![Watch the demo](images/trackingSortYT.png)](https://www.youtube.com/shorts/ReqabGZ8ctM)
-
-Object tracking with optical flow:
-
-[![Watch the demo](images/oFYT.png)](youtube.com/shorts/-5ozBTq2l24?feature=share)
-
-GUI:
-
-[![Watch the demo](images/GUIShortYT.png)](https://www.youtube.com/shorts/RXhNjNWLM1I?feature=share)
+<div align="center">
+  <a href="https://www.youtube.com/shorts/ReqabGZ8ctM">
+    <img src="images/trackingSortYT.png" alt="Object Tracking" width="30%">
+  </a>
+  <a href="https://www.youtube.com/shorts/-5ozBTq2l24?feature=share">
+    <img src="images/oFYT.png" alt="Optical Flow" width="30%">
+  </a>
+  <a href="https://www.youtube.com/shorts/RXhNjNWLM1I?feature=share">
+    <img src="images/GUIShortYT.png" alt="GUI" width="30%">
+  </a>
+</div>
 
 ## Distance Correction for Stereo Camera
 
