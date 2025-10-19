@@ -56,7 +56,7 @@ Tracking-by-detection with YOLO und SORT:
 
 Object tracking with optical flow:
 
-[![Watch the demo](images/oFYT.png)]([(https://www.youtube.com/shorts/R2LEhzUXaU0])(youtube.com/shorts/-5ozBTq2l24?feature=share)
+[![Watch the demo](images/oFYT.png)](youtube.com/shorts/-5ozBTq2l24?feature=share)
 
 GUI:
 
