@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 6,
+    "Checksum": "4336071b2c8198f25a579a1b7378cda34cdf6135f9105963ccc0499458823904",
+    "DEVICE": [
+        {
+            "DeviceType": "HAILO8",
+            "RuntimeAgent": "HAILORT",
+            "SupportedDeviceTypes": "HAILORT/HAILO8"
+        }
+    ],
+    "PRE_PROCESS": [
+        {
+            "InputN": 1,
+            "InputH": 640,
+            "InputW": 640,
+            "InputC": 3,
+            "InputQuantEn": true
+        }
+    ],
+    "MODEL_PARAMETERS": [
+        {
+            "ModelPath": "yolov8n_relu6_widerface_kpts--640x640_quant_hailort_hailo8_1.hef"
+        }
+    ],
+    "POST_PROCESS": [
+        {
+            "OutputPostprocessType": "PoseDetectionYoloV8",
+            "OutputNumClasses": 1,
+            "LabelsPath": "labels_yolov8n_pose_relu6_widerface.json",
+            "OutputNumLandmarks": 5
+        }
+    ]
+}
