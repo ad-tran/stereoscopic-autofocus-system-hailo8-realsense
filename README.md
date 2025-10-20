@@ -54,7 +54,7 @@ This project implements a real-time stereoscopic autofocus system, which provide
 Tracking-by-detection with YOLO und SORT:
 
 <div align="center">
-  <a href="https://www.youtube.com/shorts/ReqabGZ8ctM">
+  <a href="https://www.youtube.com/shorts/-5ozBTq2l24">
     <img src="images/trackingSortYT.png" alt="Object Tracking" width="30%">
   </a>
   <a href="https://www.youtube.com/shorts/xMcakpQYOgM">
